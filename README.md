@@ -40,49 +40,31 @@ My goal is to create software that is powerful, independent and thoughtfully des
 
 ### 🚀 Featured Projects
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
-
-<h3>🌸 AmaryllisOS</h3>
-
-A custom 64-bit operating system written in Rust.
-
-- Hybrid kernel architecture
-- Memory management
-- Process and thread management
-- Custom drivers and system services
-- Independent graphical environment
-
-<a href="https://github.com/MaksLLL-prog/AmaryllisOS">Explore repository →</a>
-
+<a href="https://github.com/MaksLLL-prog/AmaryllisOS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=AmaryllisOS&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="AmaryllisOS"/>
+</a>
 </td>
 <td width="50%">
-
-<h3>🌺 CamelliaOS-Linux</h3>
-
-An independent Linux distribution based on Arch Linux.
-
-- Custom system environment
-- Independent distribution
-- Linux ecosystem
-
-<a href="https://github.com/MaksLLL-prog/CamelliaOS-Linux">Explore repository →</a>
-
+<a href="https://github.com/MaksLLL-prog/CamelliaOS-Linux">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=CamelliaOS-Linux&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="CamelliaOS-Linux"/>
+</a>
 </td>
 </tr>
 <tr>
-<td colspan="2">
-
-<h3>🤖 Selena.AI</h3>
-
-An individually developed AI model optimized for programming-related tasks.
-
-<a href="https://github.com/MaksLLL-prog/Selena.AI">Explore repository →</a>
-
+<td width="50%">
+<a href="https://github.com/MaksLLL-prog/Selena.AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=Selena.AI&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="Selena.AI"/>
+</a>
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
