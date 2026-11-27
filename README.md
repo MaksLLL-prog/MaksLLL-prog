@@ -38,33 +38,26 @@ My goal is to create software that is powerful, independent and thoughtfully des
 
 ---
 
-### 🚀 Featured Projects
+
+<h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
+
 <a href="https://github.com/MaksLLL-prog/AmaryllisOS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=AmaryllisOS&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="AmaryllisOS"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=AmaryllisOS&theme=github_dark&hide_border=true" width="70%" />
 </a>
-</td>
-<td width="50%">
+
+<br/><br/>
+
 <a href="https://github.com/MaksLLL-prog/CamelliaOS-Linux">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=CamelliaOS-Linux&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="CamelliaOS-Linux"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=CamelliaOS-Linux&theme=github_dark&hide_border=true" width="48%" />
 </a>
-</td>
-</tr>
-<tr>
-<td width="50%">
 <a href="https://github.com/MaksLLL-prog/Selena.AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=Selena.AI&theme=github_dark&hide_border=true&description_lines_count=2" width="100%" alt="Selena.AI"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=Selena.AI&theme=github_dark&hide_border=true" width="48%" />
 </a>
-</td>
-<td width="50%">
-</td>
-</tr>
-</table>
+
 </div>
+
 
 ---
 
