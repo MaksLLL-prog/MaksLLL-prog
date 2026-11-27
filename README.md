@@ -2,23 +2,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+noannby+%F0%9F%91%8B;Low-level+Software+Developer;Rust+%7C+Operating+Systems+%7C+AI;Building+my+own+world+of+software" alt="Typing SVG" />
 
-<p>
-  <b>Low-level Software Developer · Systems Programmer · OS Developer</b>
-</p>
+<p><b>Low-level Software Developer · Systems Programmer · OS Developer</b></p>
 
 <p>
-  <a href="https://github.com/MaksLLL-prog">
-    <img src="https://img.shields.io/badge/GitHub-MaksLLL--prog-161B22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Operating%20Systems-161B22?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Rust-161B22?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-MaksLLL--prog-161B22?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Operating%20Systems-161B22?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-Rust-161B22?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### `$ whoami`
+## `$ whoami`
 
 I'm **noannby (MaksLLL-prog)** — a developer passionate about low-level programming, operating system architecture and building software from the ground up.
 
@@ -28,7 +24,7 @@ My goal is to create software that is powerful, independent and thoughtfully des
 
 ---
 
-### ⚙️ Technologies & Tools
+## ⚙️ Technologies & Tools
 
 <div align="center">
 
@@ -38,46 +34,70 @@ My goal is to create software that is powerful, independent and thoughtfully des
 
 ---
 
-
-<h3 align="center">🚀 Featured Projects</h3>
+## 🚀 Featured Projects
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 <a href="https://github.com/MaksLLL-prog/AmaryllisOS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=AmaryllisOS&theme=github_dark&hide_border=true" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=AmaryllisOS&theme=github_dark&hide_border=true" width="100%" alt="AmaryllisOS" />
 </a>
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
 <a href="https://github.com/MaksLLL-prog/CamelliaOS-Linux">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=CamelliaOS-Linux&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=CamelliaOS-Linux&theme=github_dark&hide_border=true" width="100%" alt="CamelliaOS-Linux" />
 </a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
 <a href="https://github.com/MaksLLL-prog/Selena.AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=Selena.AI&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksLLL-prog&repo=Selena.AI&theme=github_dark&hide_border=true" width="50%" alt="Selena.AI" />
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MaksLLL-prog&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksLLL-prog&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MaksLLL-prog&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" width="100%" alt="GitHub Stats" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksLLL-prog&layout=compact&theme=github_dark&hide_border=true" width="100%" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MaksLLL-prog&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=MaksLLL-prog&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -89,7 +109,11 @@ My goal is to create software that is powerful, independent and thoughtfully des
 
 <div align="center">
 
-**Building things from the ground up.**
+### Building things from the ground up.
+
+<img src="https://img.shields.io/badge/Made%20with-Rust%20%26%20Passion-161B22?style=flat-square&logo=rust&logoColor=white" />
+
+<br/>
 
 <sub>© 2026 noannby · MaksLLL-prog</sub>
 
