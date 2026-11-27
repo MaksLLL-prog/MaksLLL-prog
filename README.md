@@ -16,7 +16,7 @@
 
 ## `$ whoami`
 
-I'm **noannby (MaksLLL-prog)** — a developer passionate about low-level programming, operating system architecture and building software from the ground up.
+I'm **noannby & kensei (MaksLLL-prog)** — a developer passionate about low-level programming, operating system architecture and building software from the ground up.
 
 I enjoy exploring how computers work beneath the surface: from memory management and CPU architecture to kernels, drivers and graphical environments.
 
